@@ -1,5 +1,4 @@
 pyrogram
-os
 Client
 enums
 Database
