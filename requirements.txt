@@ -1,5 +1,4 @@
 pyrogram
-Client
 enums
 Database
 Utils.database
